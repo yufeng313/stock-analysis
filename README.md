@@ -8,10 +8,10 @@ In order to analysis all the dataset, here are some purpose we need to bring in 
 3.Use Timer function to know how fast VBA code will compile the results.
 And here are the results with some of the VBA code:
 ![main code of stocks analysis](https://user-images.githubusercontent.com/107179765/175507746-e62bd7da-43ec-4c8e-ac98-f28f1be09342.png)
-![Stock Analysis Output for 2017](https://user-images.githubusercontent.com/107179765/175507780-7a335063-9c33-4a7f-8fe2-1184dbd3e6e1.png)
+![Stock Analysis Output for 2017](https://user-images.githubusercontent.com/107179765/175507780-7a335063-9c33-4a7f-8fe2-1184dbd3e6e1.png)<br/>
 ![the running time of original script 2017](https://user-images.githubusercontent.com/107179765/175652522-09f3f572-effc-478c-9250-dc651854925f.png)
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/107179765/175507826-dba2ae97-b603-422e-a64f-11f6d9175d8d.png)
-![Stock Analysis Output for 2018](https://user-images.githubusercontent.com/107179765/175507805-93195e55-53b3-465b-b978-4658704b996d.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/107179765/175507826-dba2ae97-b603-422e-a64f-11f6d9175d8d.png)<br/>
+![Stock Analysis Output for 2018](https://user-images.githubusercontent.com/107179765/175507805-93195e55-53b3-465b-b978-4658704b996d.png)<br/>
 ![the running time of original script 2018](https://user-images.githubusercontent.com/107179765/175652586-323694ab-c44e-4a5e-bc1a-32dd2d68f483.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/107179765/175507846-59cc0c6e-1e46-4129-9d9c-beef4eefea6c.png)
 ### Analysis Results
