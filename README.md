@@ -15,12 +15,12 @@ And here are the results with some of the VBA code:
 ![the running time of original script 2018](https://user-images.githubusercontent.com/107179765/175652586-323694ab-c44e-4a5e-bc1a-32dd2d68f483.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/107179765/175507846-59cc0c6e-1e46-4129-9d9c-beef4eefea6c.png)
 ### Analysis Results
-From the output results, we can see that in year 2017,all of the tickers have a positive return except for the ticker "TERP" has a negative return of -7.2%,but in year 2018,most company had a negative returns, which means all stocks had a better performance at year 2017.<br/> 
-And we can also see that the ticker "ENPH" had great total volumes and returns in both year. This concludes with the suggestion to purchase stocks from "ENPH" maybe a good choice.<br/>
-After running the stocks analysis code ,the execution time of the refactored script is less than the original script, since the refactored script only takes 0.15 seconds.
+1.From the output results, we can see that in year 2017,all of the tickers have a positive return except for the ticker "TERP" has a negative return of -7.2%,but in year 2018,most company had a negative returns, which means all stocks had a better performance at year 2017.<br/> 
+2.And we can also see that the ticker "ENPH" had great total volumes and returns in both year. This concludes with the suggestion to purchase stocks from "ENPH" maybe a good choice.<br/>
+3.After running the stocks analysis code ,the execution time of the refactored script is less than the original script, since the refactored script only takes 0.15 seconds.
 ## Summary
 -What are the advantages or disadvantages of refactoring code?<br/>
- The advantage of refactoring code is that you can make an analysis of any year without having to write a code for every year, and this really save the coding time and performing time on it.<br/>
- The disadvantage of refactoring code is that the code become more complex, and it might be confused the next time when we exposed to the code.<br/>
+ 1.The advantage of refactoring code is that you can make an analysis of any year without having to write a code for every year, and this really save the coding time and performing time on it.<br/>
+ 2.The disadvantage of refactoring code is that the code become more complex, and it might be confused the next time when we exposed to the code.<br/>
 -How do these pros and cons apply to refactoring the original VBA script?<br/>
  We can use nested loop and create index or variables to make the code looks shorter and more precise,this will reduce the memory usage and make the code running faster.But this also means that the refactored script requires more complex thinking of dealing with different variables and functions, which will increase the thinking process of putting all the data together in a correct order,thus we may use pseudocode to clear our mind before writing our code.
